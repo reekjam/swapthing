@@ -876,7 +876,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     connection_pool (2.2.2)
-    crass (1.0.5)
+    crass (1.0.6)
     database_cleaner (1.7.0)
     devise (4.7.1)
       bcrypt (~> 3.0)
@@ -961,9 +961,9 @@ GEM
     net_http_timeout_errors (0.3.5)
     netrc (0.11.0)
     nio4r (1.2.1)
-    nokogiri (1.10.8)
+    nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
-    nokogumbo (2.0.1)
+    nokogumbo (2.0.2)
       nokogiri (~> 1.8, >= 1.8.4)
     oga (2.15)
       ast
@@ -1064,7 +1064,7 @@ GEM
     ruby-ll (2.1.2)
       ansi
       ast
-    sanitize (5.1.0)
+    sanitize (5.2.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.8.0)
       nokogumbo (~> 2.0)
